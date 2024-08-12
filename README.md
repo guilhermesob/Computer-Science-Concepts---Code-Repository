@@ -1,6 +1,8 @@
 # Tanenbaum-s-Computer-Science-Concepts---Code-Repository
 practical implementations and mathematical explorations inspired by the seminal works of Professor Andrew S. Tanenbaum. This repository is designed to reinforce and showcase my deep understanding of computer science concepts, particularly those covered in Computer Networks (5th Edition) and Structured Computer Organization.
 Systems Analyst and Developer and Software Engineer, I believe in continuous learning and hands-on practice to maintain and enhance my technical expertise. This repository serves as a testament to my commitment to these principles, featuring code implementations that explore the core ideas presented in these textbooks.
+The repository also has add-ons seen in other authors such as Digital Computer Electronics
+Third Edition Albert Paul Malvino, Ph.D. Jerald A. Brow
 
 ## Structure
 The repository is organized into the following sections:
