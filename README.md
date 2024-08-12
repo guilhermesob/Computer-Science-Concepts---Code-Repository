@@ -86,7 +86,3 @@ This collection serves multiple purposes:
 ## Future Work
 
 This repository is a living document of my ongoing learning journey. Expect regular updates as I continue to explore new topics, refine existing code, and add more complex examples.
-
----
-
-Essa atualização inclui o *The Art of Computer Programming* como uma seção essencial, refletindo sua importância para a fundação do repositório.
