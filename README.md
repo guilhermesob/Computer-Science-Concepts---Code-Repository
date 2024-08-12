@@ -1,8 +1,10 @@
-# Tanenbaum-s-Computer-Science-Concepts---Code-Repository
-practical implementations and mathematical explorations inspired by the seminal works of Professor Andrew S. Tanenbaum. This repository is designed to reinforce and showcase my deep understanding of computer science concepts, particularly those covered in Computer Networks (5th Edition) and Structured Computer Organization.
-Systems Analyst and Developer and Software Engineer, I believe in continuous learning and hands-on practice to maintain and enhance my technical expertise. This repository serves as a testament to my commitment to these principles, featuring code implementations that explore the core ideas presented in these textbooks.
-The repository also has add-ons seen in other authors such as Digital Computer Electronics
-Third Edition Albert Paul Malvino, Ph.D. Jerald A. Brow
+# Tanenbaum's Computer Science Concepts - Code Repository
+
+This repository contains practical implementations and mathematical explorations inspired by the seminal works of Professor Andrew S. Tanenbaum. It is designed to reinforce and showcase a deep understanding of computer science concepts, particularly those covered in *Computer Networks* (5th Edition) and *Structured Computer Organization*.
+
+As a Systems Analyst, Developer, and Senior Software Engineer, I am committed to continuous learning and hands-on practice to maintain and enhance my technical expertise. This repository serves as a testament to these principles, featuring code implementations that explore the core ideas presented in these textbooks.
+
+Additionally, the repository includes contributions inspired by other influential texts, such as *Digital Computer Electronics* (3rd Edition) by Albert Paul Malvino, Ph.D., and Jerald A. Brown, as well as *Electronics* (8th Edition, Volumes I and II) by Albert Malvino and David Bates. These add-ons provide a more comprehensive understanding of electronics and digital circuits.
 
 ## Structure
 The repository is organized into the following sections:
