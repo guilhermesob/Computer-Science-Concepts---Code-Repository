@@ -1,6 +1,6 @@
 # Tanenbaum's Computer Science Concepts - Code Repository
 
-This repository contains practical implementations and mathematical explorations inspired by the seminal works of Professor Andrew S. Tanenbaum. It is designed to reinforce and showcase a deep understanding of computer science concepts, particularly those covered in *Computer Networks* (5th Edition) and *Structured Computer Organization*.
+This repository contains practical implementations and mathematical explorations inspired by the seminal works of Professor Andrew S. Tanenbaum. It is designed to reinforce and showcase a deep understanding of computer science concepts, particularly those covered in *Computer Networks* (5th Edition), *Structured Computer Organization* and *Modern Operating Systems*.
 
 As a Systems Analyst, Developer, and Senior Software Engineer, I am committed to continuous learning and hands-on practice to maintain and enhance my technical expertise. This repository serves as a testament to these principles, featuring code implementations that explore the core ideas presented in these textbooks.
 
