@@ -34,6 +34,8 @@ Explore the Code: Browse through the various directories and examine the code to
 
 Explore the Code: Browse through the various directories and examine the code to understand the implementations.
 Run the Examples: Many of the scripts and programs are self-contained and can be run directly. Instructions are provided where necessary.
+
 Contribute: If you have suggestions or improvements, feel free to open a pull request or issue.
-Future Work
+
+### Future Work
 This repository is a living document of my ongoing learning journey. Expect regular updates as I continue to explore new topics, refine existing code, and add more complex examples.
