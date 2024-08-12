@@ -1,10 +1,16 @@
 # Tanenbaum's Computer Science Concepts - Code Repository
 
-This repository contains practical implementations and mathematical explorations inspired by the seminal works of Professor Andrew S. Tanenbaum. It is designed to reinforce and showcase a deep understanding of computer science concepts, particularly those covered in *Computer Networks* (5th Edition), *Structured Computer Organization* and *Modern Operating Systems*.
+This repository contains practical implementations and mathematical explorations inspired by the seminal works of Professor Andrew S. Tanenbaum. It is designed to reinforce and showcase a deep understanding of computer science concepts, particularly those covered in *Computer Networks* (5th Edition), *Structured Computer Organization*, and *Modern Operating Systems*.
 
-As a Systems Analyst, Developer, and Senior Software Engineer, I am committed to continuous learning and hands-on practice to maintain and enhance my technical expertise. This repository serves as a testament to these principles, featuring code implementations that explore the core ideas presented in these textbooks.
+As a Systems Analyst, Developer, and Software Engineer, I am committed to continuous learning and hands-on practice to maintain and enhance my technical expertise. This repository serves as a testament to these principles, featuring code implementations that explore the core ideas presented in these textbooks.
 
-Additionally, the repository includes contributions inspired by other influential texts, such as *Digital Computer Electronics* (3rd Edition) by Albert Paul Malvino, Ph.D., and Jerald A. Brown, as well as *Electronics* (8th Edition, Volumes I and II) by Albert Malvino and David Bates. These add-ons provide a more comprehensive understanding of electronics and digital circuits.
+The repository is organized into several sections:
+
+1. **Core Concepts**: Practical implementations and mathematical explorations based on Tanenbaum's texts.
+2. **Electronics and Circuits**: Contributions inspired by *Digital Computer Electronics* (3rd Edition) by Albert Paul Malvino, Ph.D., and Jerald A. Brown, as well as *Electronics* (8th Edition, Volumes I and II) by Albert Malvino and David Bates. These sections provide a more comprehensive understanding of electronics and digital circuits.
+3. **Mathematical Abstractions**: Detailed mathematical methods and demonstrations in LaTeX, including numerical methods, vector calculus, computational calculus, and logical functions, with a focus on algorithms for graph theory and machine learning.
+
+This project is expected to span approximately 1 to 1.5 years, encompassing code development, mathematical abstractions, and additional contributions to offer a comprehensive study of the foundational elements of computing. Future plans include integrating further resources, such as *Encyclopedia of Computer Science & Engineering* by Anthony Ralston and Edwin D. Reilly, to enrich the repository with extensive references and broader coverage of computer science and engineering topics.
 
 ## Structure
 The repository is organized into the following sections:
