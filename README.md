@@ -13,24 +13,43 @@ The repository is organized into several sections:
 This project is expected to span approximately 1 to 1.5 years, encompassing code development, mathematical abstractions, and additional contributions to offer a comprehensive study of the foundational elements of computing. Future plans include integrating further resources, such as *Encyclopedia of Computer Science & Engineering* by Anthony Ralston and Edwin D. Reilly, to enrich the repository with extensive references and broader coverage of computer science and engineering topics.
 
 ## Structure
+
 The repository is organized into the following sections:
 
-## Computer Networks:
+### Computer Networks
 
-Implementations and simulations of networking protocols, algorithms, and concepts discussed in Computer Networks.
+- **Implementations and Simulations**: Code and projects that implement and simulate networking protocols, algorithms, and concepts discussed in *Computer Networks* (5th Edition).
+- **Mathematical Models**: Scripts and programs related to network throughput, latency calculations, and other performance metrics.
 
-Mathematical models and code related to network throughput, latency calculations, and other performance metrics.
+### Structured Computer Organization
 
-## Structured Computer Organization:
+- **Architectural Demonstrations**: Code that illustrates the workings of computer architecture as described in *Structured Computer Organization*.
+- **Projects**: Includes topics such as microprogramming, assembly language programming, and memory management.
 
-Code that demonstrates the workings of computer architecture as described in Structured Computer Organization.
-Projects that cover topics such as microprogramming, assembly language programming, and memory management.
-Mathematical Equations and Models:
+### Mathematical Equations and Models
 
-Scripts and programs that solve complex mathematical equations encountered in computer science and network engineering.
-Examples include numerical methods for network analysis, signal processing, and data encryption.
+- **Numerical Methods**: Scripts and programs solving complex mathematical equations encountered in computer science and network engineering.
+- **Examples**: Includes numerical methods for network analysis, signal processing, and data encryption.
 
-## Modern Operating Systems
+### Modern Operating Systems
+
+- **Systems Programming**: Implementations and explorations of concepts from *Modern Operating Systems*.
+- **Advanced Topics**: Includes code and projects related to OS design, resource management, and system performance.
+
+### Electronics and Circuits (Planned)
+
+- **Electronic Fundamentals**: Contributions inspired by *Digital Computer Electronics* (3rd Edition) by Albert Paul Malvino, Ph.D., and Jerald A. Brown, as well as *Electronics* (8th Edition, Volumes I and II) by Albert Malvino and David Bates.
+- **Circuit Design**: Projects and code related to electronics and digital circuits.
+
+### Mathematical Abstractions (Planned)
+
+- **Mathematical Methods**: Detailed demonstrations in LaTeX, including numerical methods, vector calculus, computational calculus, and logical functions.
+- **Focus Areas**: Algorithms for graph theory and machine learning.
+
+### Future Additions (Planned)
+
+- **Encyclopedia of Computer Science & Engineering**: Additional resources and references from *Encyclopedia of Computer Science & Engineering* by Anthony Ralston and Edwin D. Reilly to provide a broader coverage of computer science and engineering topics.
+
 
 ## Why This Repository?
 
